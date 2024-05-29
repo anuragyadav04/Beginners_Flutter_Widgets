@@ -1,6 +1,23 @@
 # beginners_flutter_widgets
+This Repo covers the important Flutter widgets to learn as a beginners.<br>
+Widgets Covers:-
+## 1. Scaffold
+## 2. SafeAear
+## 3. Container
+## 4. Column
+## 5. Row
+## 6. Expandable
+## 7. Flexible
+## 8. TextField
+## 9. Button
+## 10. Image
+## 11. ListView
+## 12. ListView Builder
+## 13. SizedBox
 
-A new Flutter project.
+Below is the tutorial one can refer : - https://www.youtube.com/watch?v=COuyAsk6dqA&t=219s
+
+
 
 ## Getting Started
 
